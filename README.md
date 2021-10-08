@@ -1,24 +1,14 @@
-Tip Calculator - Solution Code
+Tip Calculator
 =================================
 
-Solution code for the Android Basics in Kotlin: Tip Calculator app.
+Complete code for the [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course): Tip Calculator app.
 
 
 Introduction
 ------------
-The Tip Calculator app contains various UI elements for calculating a tip,
-teaching about app structure, user input, and view binding.
+This is the complete code for the Tip Calculator app in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). The Tip Calculator app contains various UI elements for calculating a tip,teaching about app structure, user input, and view binding.
 
 
-Pre-requisites
+For more
 --------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Follow the pathways at [Google Developer](https://developers.google.com/learn/pathways)
